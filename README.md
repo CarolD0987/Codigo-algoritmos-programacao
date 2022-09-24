@@ -1,2 +1,2 @@
 # Codigo-algoritmos-programacao
-Trabalho de Produção de  Algoritmos e Programação 
+Este código é uma calculadora que faz as operações de soma, multiplicação, divisão, potenciação e raiz quadrada
